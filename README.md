@@ -9,5 +9,5 @@ A lightweight desktop text editor built using Python and Tkinter.
 
 ## How to Run
 ```bash
-python editor.py
+python main.py
 
